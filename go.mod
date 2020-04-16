@@ -1,3 +1,3 @@
-module github.com/adersberger/hugo-theme-dream
+module github.com/adersberger/dream
 
 go 1.13
